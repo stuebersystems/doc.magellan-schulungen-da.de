@@ -20,27 +20,27 @@ Dies sind die Schulungsunterlagen für [MAGELLAN](https://magellan.stueber.de). 
 
 Dieses Repository ist ein Git-Repository. Um das Repository auf deinem lokalen Computer zu klonen, benötigst Du einen Git-Client. Entweder Du installierst Dir [Git für Windows](https://gitforwindows.org/) und arbeitest mit der Eingabeaufforderung, oder Du installierst Dir eine der zahlreichen GUIs. Zu empfehlen wären [GitHub Desktop](https://desktop.github.com) oder [SourceTree](https://www.sourcetreeapp.com).
 
-1. Erstelle einen lokalen Ordner für die Dokumentation, z.B. `c:\docs\magellan-schulungen`.
+1. Erstelle einen lokalen Ordner für die Dokumentation, z.B. `c:\docs\magellan-schulungen-da`.
 
-2. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\magellan-schulungen`.
+2. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\magellan-schulungen-da`.
 
-3. Tippe den Befehl `git clone https://github.com/stuebersystems/doc.magellan-schulungen.de.git` ein, um das Repository zu klonen.
+3. Tippe den Befehl `git clone https://github.com/stuebersystems/doc.magellan-schulungen-da.de.git` ein, um das Repository zu klonen.
 
 ## Repository als Zip-Archiv herunterladen
 
 Willst du mit Git erstmal nichts zu tun haben, kannst Du das Repository auch als Zip-Archiv herunterladen:
 
-1. Öffne die URL `https://github.com/stuebersystems/doc.magellan-schulungen.de` in deinem Webbrowser
+1. Öffne die URL `https://github.com/stuebersystems/doc.magellan-schulungen-da.de` in deinem Webbrowser
 
 2. Klicke auf die Schaltfläche `Clone or download` und dann auf `Download ZIP`.
 
-3. Entpacke das Zip-Archiv in einen lokalen Ordner Deiner Wahl, z.B. `c:\docs\magellan-schulungen`.
+3. Entpacke das Zip-Archiv in einen lokalen Ordner Deiner Wahl, z.B. `c:\docs\magellan-schulungen-da`.
 
 ## Mit MkDocs arbeiten
 
 Du hast Python und das Package MkDocs installiert, Du hast dieses Repository geklont oder als Zip-Archiv heruntergeladen. Jetzt kannst Du die Dokumentation lokal auf deinem Rechner generieren:
 
-1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\magellan-schulungen`.
+1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\magellan-schulungen-da`.
 
 2. Tippe den Befehl `mkdocs build` ein. Die Dokumentation wird neu generiert.
 
